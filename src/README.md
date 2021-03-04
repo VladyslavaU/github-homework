@@ -7,3 +7,4 @@ keep reading!
 ----
 added Hello World
 added print() method
+added second print()
